@@ -1,3 +1,4 @@
+#include <Arduino.h>
 #include <DNSServer.h>
 #include <ESPUI.h>
 
