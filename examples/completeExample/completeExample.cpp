@@ -80,7 +80,7 @@ void setUpUI() {
 #endif
 
 	//Turn off verbose debugging
-	ESPUI.setVerbosity(Verbosity::Quiet);
+	ESPUI.setVerbosity(Verbosity::Verbose);
 
 	//Make sliders continually report their position as they are being dragged.
 	ESPUI.sliderContinuous = true;
